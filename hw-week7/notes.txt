@@ -1,0 +1,26 @@
+The Day 3 activities must be fully completed in order to complete this activity. If they are not, you will need to refer to your student guides and set up your domain OUs, users, and groups .
+
+Lab Environment
+For this week's homework, please use the Windows Server machine and Windows 10 machine inside your Azure Windows RDP Host machine.
+Windows RDP Host Machine:
+Username: azadmin
+Password: p4ssw0rd*
+
+Open the Hyper-V Manager in the Windows RDP Host machine to access the nested virtual machines:
+Windows 10 Machine
+Username: sysadmin
+Password: bl0wm3cunT!!
+
+Windows Server Machine:
+Username: sysadmin
+Password: p4ssw0rd*
+
+
+Note: The instructions for each task will tell you which machine to work in.
+
+a.bone@cyberxsecurity.onmicrosoft.com	bl0wm3cun
+Extend the Windows Virtual Machine Evaluation Licenses
+slmgr.vbs /rearm
+
+*** Day 3 Activities - right towards end, had to run gpupdate as Bob, instead of sysadmin to get group policies to update?
+

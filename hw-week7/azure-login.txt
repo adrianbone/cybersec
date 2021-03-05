@@ -1,0 +1,18 @@
+https://labs.azure.com/register/cw59x4dh
+
+
+Credentials for the Windows RDP Host machine:
+Username: azadmin
+Password: p4ssw0rd*
+
+
+a.bone@cyberxsecurity.onmicrosoft.com	Hyvr*5934
+
+
+Extend the Windows Virtual Machine Evaluation Licenses
+slmgr.vbs /rearm
+
+
+judybone0@gmail.com	usualpwd for email - n3v4sur3nd4 for microsoft
+
+azure portal - aj

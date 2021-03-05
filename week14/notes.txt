@@ -1,0 +1,5 @@
+docker container ls
+docker container stop/rm <image>
+docker-compose down
+docker-compose up
+
